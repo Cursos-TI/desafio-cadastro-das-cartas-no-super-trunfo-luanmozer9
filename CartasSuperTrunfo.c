@@ -44,8 +44,7 @@
 
         printf("Digite o nome da cidade2: \n");
         scanf("%s", Cidade2);
-        while (getchar() != '\n');
-        
+
         printf("Qual a populacao1: \n");
         scanf("%d", &Populacao1);
 
